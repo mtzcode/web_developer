@@ -17,21 +17,25 @@
 <h2 id="progresso-html">✅ Progresso HTML</h2>
 
 <h3>Fundamentos</h3>
-- [x] Introdução ao HTML e Estrutura Básica  
-- [x] Tags Semânticas e Estrutura de Conteúdo  
-- [ ] Formulários e Atributos  
+
+Introdução ao HTML e Estrutura Básica
+- [x] Tags Semânticas e Estrutura de Conteúdo
+- [ ] Formulários e Atributos
 
 <h3>HTML Intermediário</h3>
+
 - [ ] Atributos Globais e Acessibilidade  
 - [ ] Multimídia e Embeds  
 - [ ] Organização e Boas Práticas  
 
 <h3>HTML Avançado</h3>
+
 - [ ] Meta Tags e SEO  
 - [ ] HTML5 APIs  
 - [ ] Integração com CSS e JavaScript  
 
 <h3>Projetos e Revisão</h3>
+
 - [ ] Projeto Final - Site de Blog  
 - [ ] Revisão e Debugging  
 - [ ] Próximos Passos  
