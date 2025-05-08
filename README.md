@@ -18,7 +18,7 @@
 
 <h3>Fundamentos</h3>
 
-Introdução ao HTML e Estrutura Básica
+- [x] Introdução ao HTML e Estrutura Básica
 - [x] Tags Semânticas e Estrutura de Conteúdo
 - [ ] Formulários e Atributos
 
