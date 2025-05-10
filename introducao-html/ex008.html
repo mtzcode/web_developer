@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cadastro</title>
+</head>
+
+<body>
+  <header>
+    <h1>Formulário de Cadastro</h1>
+  </header>
+  <main>
+    <form action="/cadastrar" method="POST">
+      <div>
+        <label for="nome">Nome Completo:</label>
+        <input type="text" name="nome" id="nome" required>
+      </div>
+      <br>
+      <div>
+        <label for="senha">Senha:</label>
+        <input type="password" name="senha" id="senha" required>
+      </div>
+      <br>
+      <div>
+        <label for="país">País</label>
+        <select name="país" id="país">
+          <option value="none"></option>
+          <option value="br">Brasil</option>
+          <option value="ar">Argentina</option>
+          <option value="ch">Chile</option>
+        </select>
+      </div>
+      <br>
+      <div>
+        <label>Gênero:</label>
+        <input type="radio" name="masculino" id="masculino">
+        <label for="masculino">Masculino</label>
+        <input type="radio" name="feminino" id="feminino">
+        <label for="feminino">Feminino</label>
+      </div>
+      <br>
+      <button type="submit">Enviar</button>
+    </form>
+  </main>
+  <footer>
+    <p>© 2025 Meu Site</p>
+  </footer>
+</body>
+
+</html>
